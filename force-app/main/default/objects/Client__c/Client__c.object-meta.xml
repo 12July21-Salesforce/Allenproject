@@ -155,10 +155,9 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Client</label>
     <nameField>
-        <displayFormat>CLI-{0000}</displayFormat>
         <label>Client</label>
         <trackHistory>false</trackHistory>
-        <type>AutoNumber</type>
+        <type>Text</type>
     </nameField>
     <pluralLabel>Clients</pluralLabel>
     <searchLayouts></searchLayouts>
